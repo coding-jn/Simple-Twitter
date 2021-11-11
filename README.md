@@ -1,6 +1,6 @@
 # Simple Twitter 💙
 
-Simple tweeting functionality of Twitter using Node.js and Express.js.
+Simple Twitter functionality using Node.js and Express.js.
 
 **Live Demo:** <i>Demo to be created</i>
 
