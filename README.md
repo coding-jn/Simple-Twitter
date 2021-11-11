@@ -2,7 +2,7 @@
 
 Simple tweeting functionality of Twitter using Node.js and Express.js.
 
-**Live Demo:** <i>To be created</i>
+**Live Demo:** <i>Demo to be created</i>
 
 <img width="960" alt="Simple Twitter" src="https://user-images.githubusercontent.com/88993361/141244771-c4915a6b-83be-4362-a9ac-06c9a69991b3.png">
 
